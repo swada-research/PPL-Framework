@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or theoretical framework, please cite it as below."
+authors:
+  - family-names: "Wada"
+    given-names: "Shuichi"
+title: "PPL-Framework: Universal Phase Space Projection & Observational Validation"
+version: "2.0.0"
+date-released: "2026-09-03"
+doi: "10.5281/zenodo.XXXXXXX"
+repository-code: "https://github.com/YourGitHub/PPL-Framework"
+references:
+  - type: article
+    title: "The Prime-Prime Lattice (PPL) and Non-Equilibrium Open Wave Dynamics: Part I: A Physical Framework for Cosmic Tuning via MSPP and the Dynamical Origin of the Riemann Hypothesis"
+    authors:
+      - family-names: "Wada"
+        given-names: "Shuichi"
+    year: 2026
+    doi: "10.5281/zenodo.22139099"
+  - type: article
+    title: "The Prime-Prime Lattice (PPL) and Non-Equilibrium Open Wave Dynamics: Part II: The Kuramoto Model as the Generative Foundation of Fields, Macroscopic Spacetime Phase Transitions, and Out-of-Sample Observational Validation of the 4/3 Critical Ratio via the O4 Gravitational Wave Dataset"
+    authors:
+      - family-names: "Wada"
+        given-names: "Shuichi"
+    year: 2026
+    version: "2.0.0"
+    doi: "10.5281/zenodo.22261783"
