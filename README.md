@@ -33,3 +33,26 @@ PPL-Framework/
 ├── CITATION.cff                          # Citation Metadata
 ├── LICENSE                               # MIT License
 └── README.md                             # Repository Overview
+
+## Citation
+
+If you use this framework, verification code, or datasets in your research, please cite the corresponding paper(s):
+
+### Part I: Mathematical Foundations
+```bibtex
+@article{wada2026ppl1,
+  author       = {Wada, Shuichi},
+  title        = {The Prime-Prime Lattice (PPL) and Non-Equilibrium Open Wave Dynamics: Part I: A Physical Framework for Cosmic Tuning via MSPP and the Dynamical Origin of the Riemann Hypothesis},
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.22139099}
+}
+
+@article{wada2026ppl2,
+  author       = {Wada, Shuichi},
+  title        = {The Prime-Prime Lattice (PPL) and Non-Equilibrium Open Wave Dynamics: Part II: The Kuramoto Model as the Generative Foundation of Fields, Macroscopic Spacetime Phase Transitions, and Out-of-Sample Observational Validation of the 4/3 Critical Ratio via the O4 Gravitational Wave Dataset},
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {2.0.0},
+  doi          = {10.5281/zenodo.22261783}
+}
