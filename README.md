@@ -54,5 +54,5 @@ If you use this framework, verification code, or datasets in your research, plea
   year         = 2026,
   publisher    = {Zenodo},
   version      = {2.0.0},
-  doi          = {10.5281/zenodo.22261783}
+  doi          = {10.5281/zenodo.22314253}
 }
